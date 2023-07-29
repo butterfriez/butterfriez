@@ -3,7 +3,7 @@
 I like to do stuff with code.
 
 # Languages
-[![Languages](https://skills.thijs.gg/icons?i=kotlin,java,javascript,typescript,lua)](https://skills.thijs.gg)
+[![Languages](https://skills.thijs.gg/icons?i=kotlin,java,javascript,typescript,lua,html,css)](https://skills.thijs.gg)
 
 # Framework
 [![Frameworks](https://skills.thijs.gg/icons?i=nextjs,express)](https://skills.thijs.gg)
